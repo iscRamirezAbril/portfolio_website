@@ -90,5 +90,14 @@
         text-align: center;
     }
     // |-----| About |-----| //
+
+    // |-----| Stats |-----| //
+    .stats .stat {
+        border-right: 0 !important;
+        margin-bottom: 40px;
+        border-bottom: var(--bs-dark) solid 1px;
+        padding-bottom: 20px;
+    }
+    // |-----| Stats |-----| //
 }
 // |================================| Media |================================| //
